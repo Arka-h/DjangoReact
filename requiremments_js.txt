@@ -1,0 +1,11 @@
+axios@latest
+prop-types@latest
+react@latest
+react-dom@latest
+react-redux@latest
+react-router-dom@latest
+react-scripts@latest
+redux@latest
+redux-thunk@latest
+semantic-ui-css@latest
+semantic-ui-react@latest
